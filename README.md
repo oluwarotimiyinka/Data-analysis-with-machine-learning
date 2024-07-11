@@ -1,2 +1,2 @@
-# oluwarotimiyinka_machinelearning
-Prediction with Machine learning data analytics project
+# Stock Price Prediction With LSTM (Long Short-Term Memory) model
+## Python, pandas, numpy, matplotlib, seaborn, tensorflow and sklearn
